@@ -3,3 +3,17 @@ body {
     color: #fff;
     text-align: center;
 }
+
+.container {
+    width: 800px;
+    margin: auto;
+}
+
+.photo img {
+    width: 100%;
+}
+
+.excursion {
+    color: gray;
+    font-size: 1.2rem;
+}
